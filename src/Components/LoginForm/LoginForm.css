@@ -1,0 +1,14 @@
+
+.input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.input input{
+    margin: 10px;
+    border-radius: 5px;
+    outline: none;
+
+}
